@@ -1,0 +1,92 @@
+.re{
+display: flex;
+}
+.lk{
+   padding-left: 60px;
+   
+}
+.bn{
+    border-radius: 20px;
+}
+.az{
+    display: flex;
+    justify-content: center;
+}
+.aza{
+    display: flex;
+    justify-content: center;
+    padding-top: 60px;
+}
+.io{
+    background-color: brown;
+    color: white;
+    border-radius: 10px;
+    margin-top: 16px;
+    padding: 5px 20px 5px;
+    margin-bottom: 13px;
+
+}
+.ioo{
+    display: flex;
+        justify-content: center;
+        margin-bottom: -30px;
+        padding-bottom: 25px;
+}
+.poi{
+    background-color: rgba(179, 118, 235, 0.568);
+}
+.qx{
+    display: flex;
+    justify-content: center;
+}
+.er{
+color: white;
+    background-color: rgba(179, 118, 235, 0.568);
+    border-radius: 10px;
+    
+    padding: 5px 30px 5px 20px ;
+}
+.err{
+    color: white;
+        background-color: rgba(179, 118, 235, 0.568);
+        border-radius: 10px;
+        margin-left: 40px;
+        
+            padding: 5px 30px 5px 20px;
+}
+.ad{
+    display: flex;
+    justify-content: end;
+}
+.lkj{
+    background-color: rgba(0, 0, 0, 0.842);
+}
+.we{
+    display: flex;
+    padding-left: 30px;
+}
+.wq{
+    padding-left: 10px;
+    color: white;
+    
+}
+.ert{
+    padding-right: 30px;
+    display: flex;
+        justify-content: end;
+        color: white; 
+}
+.a{
+    display: flex;
+    justify-content: end;
+    
+}
+.ertt{
+    padding-left: 170px;
+    color: white;
+}
+.iop{
+    display: flex;
+    justify-content: center;
+    padding-left: 340px;
+}
